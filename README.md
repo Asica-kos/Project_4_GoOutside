@@ -14,11 +14,11 @@ This project is focused on addressing the current data challenges by:
 
 ## What we used?
 
-**Google BigQuery**: A fully-managed, serverless data warehouse that allows for fast SQL queries on large datasets.
+**Google BigQuery**: A data warehouse that allows for fast SQL queries.
 
-**Google Sheets**: A collaborative, cloud-based spreadsheet tool that will serve as the interface for non-technical users.
+**Google Sheets**: A user-friendly spreadsheet tool.
 
-**Google Looker Studio**: A tool to create dynamic, data-driven dashboards to visualize and report on business performance.
+**Google Looker Studio**: A tool to create dashboards to visualize and report on business performance.
 
 ## What we've learnt?
 
